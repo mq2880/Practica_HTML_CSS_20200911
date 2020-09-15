@@ -6,7 +6,12 @@ body {
     font-family: helvetica;
     color: darkblue;
   }
-
+h2{
+    font-family: helvetica;
+    font-size: xx-large;
+    color: rgba(211, 106, 8, 0.52);
+  
+}
   div {
     color: darkblue;
   }
